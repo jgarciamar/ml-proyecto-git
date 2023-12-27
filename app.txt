@@ -1,1 +1,2 @@
-Some notes
+Some notes.
+1. This software is open source!
